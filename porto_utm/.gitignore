@@ -1,0 +1,14 @@
+# Ignore everything in this directory
+*
+# Ignore auto-generated metadata files
+*.aux.xml
+# Except
+!.gitignore
+!*.tif
+!README.md
+!5m
+!10m
+!25m
+!dem
+!landcover
+!wind
